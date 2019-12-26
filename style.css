@@ -1,0 +1,65 @@
+body{
+    background: #d7e3ed;
+}
+header {
+    background-color: #5e798d;
+    padding: 10px;
+    text-align: center;
+    color: #d7e3ed;
+    font-size: 20px;
+    font-family: 'Muli', sans-serif;
+}
+nav {
+    float: left;
+    width: 10%;
+    height: 100%;
+    font-family: 'Muli', sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+}
+li a {
+    display: block;
+    margin: 10px;
+    text-decoration: none;
+    color: #5e798d; 
+}
+li a:hover {
+    background-color: #395467;
+    color: white;
+}
+.pupin, .university, .pupin1916 {
+    float: left;
+    padding: 10px;
+}
+.text-main {
+    padding: 20px;
+    width: 80%;
+    color: #5e798d;
+    font-family: 'Muli', sans-serif;
+    font-size: 20px;
+    float: left; 
+}
+p { 
+    padding: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+th {
+  background-color: #5e798d;
+  color: white;
+}
+.i1 {
+    font-style: italic;
+}
+ 
